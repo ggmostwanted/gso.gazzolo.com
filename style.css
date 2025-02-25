@@ -1,0 +1,30 @@
+body {
+
+    font-size: 20px;
+    font-family: 'Lora', serif;
+    text-align: center;
+    background-color: white;
+
+header {
+    font-size: 40px;
+    background-color: #fff400;
+    color: #b200ff;
+    padding: 40px;
+}
+
+section {
+    font-size: 15px;
+    margin: 10px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    font-size: 35px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #b200ff;
+    color: #fff400;
+}
