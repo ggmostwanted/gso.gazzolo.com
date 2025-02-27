@@ -4,18 +4,18 @@ body {
     font-family: 'Lora', serif;
     text-align: center;
     background-color: white;
-
 }
 
 header {
     font-size: 40px;
-    background-color: #fff400;
-    color: #b200ff;
+    background-color: #c53d91;
+    color: #ffc316;
     padding: 40px;
+
 }
 
 section {
-    font-size: 15px;
+    font-size: 25px;
     margin: 10px;
     padding: 20px;
     background: white;
@@ -27,6 +27,40 @@ footer {
     font-size: 35px;
     margin-top: 20px;
     padding: 10px;
-    background-color: #b200ff;
-    color: #fff400;
+    background-color: #ffc316;
+    color: #c53d91;
 }
+
+.stile2 {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 2px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.stile1 {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2);
+}
+
+.destra {
+    float: right;
+    margin-right: 10px; /* Spazio tra immagine e testo */
+}
+
+.bottone {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ffc316;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.bottone:hover {
+    background-color: #c53d91;
+}
+
+
