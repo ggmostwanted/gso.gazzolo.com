@@ -51,7 +51,7 @@ footer {
 }
 
 .bottone {
-    display: inline-block;
+    display: under-block;
     padding: 10px 20px;
     background-color: #ffc316;
     color: white;
