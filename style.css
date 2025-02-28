@@ -17,7 +17,7 @@ header {
 section {
     font-size: 25px;
     margin: 10px;
-    padding: 20px;
+    padding: 30px;
     background: white;
     border-radius: 10px;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
@@ -25,8 +25,8 @@ section {
 
 footer {
     font-size: 35px;
-    margin-top: 0px;
-    padding: 0px;
+    margin-top: 00px;
+    padding: 10px;
     background-color: #ffc316;
     color: #c53d91;
 }
@@ -51,6 +51,8 @@ footer {
 }
 
 .bottone {
+    width: 100%;
+    max-width: 50px;
     padding: 20px 30px;
     background-color: #ffc316;
     color: white;
